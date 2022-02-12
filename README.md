@@ -1,12 +1,14 @@
 # CounterTool-Python
 #### ポケモンなどで色違いなどを粘る際に使うリセット回数やエンカウント回数のカウンターツールです
 #### 時間計測もできます(〇時間〇分〇秒)
-
 ***
+
+### 使用実績
+配信者 ゆうりちゃん！【YRCH】 様
+https://youtu.be/XJ1BrSbeXoM
 
 ### 使用言語
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-
 ***
 
 ### 使い方
